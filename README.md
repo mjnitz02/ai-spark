@@ -1,4 +1,6 @@
-![ai_spark_banner.jpg](ai_spark_banner.jpg)
+<p align="center">
+  <img src="ai_spark_banner.jpg" />
+</p>
 # AI Spark
 _Just like a spark can ignite a fire, the AI Spark course is designed to inspire a passion 
 for learning and discovery in the fascinating world of artificial intelligence_
