@@ -1,12 +1,13 @@
 <p align="center">
   <img src="ai_spark_banner.jpg" />
 </p>
+
 # AI Spark
 _Just like a spark can ignite a fire, the AI Spark course is designed to inspire a passion 
 for learning and discovery in the fascinating world of artificial intelligence_
 
-_(This course is under development for 2024 with the goal to provide local high school students a free,
-instructor guided, introduction to the field of artificial intelligence and machine learning.)_
+> **NOTE**: _This course is under active development with the goal to provide local high school students a free,
+instructor guided, introduction to the field of artificial intelligence and machine learning._
 
 ## Description
 AI Spark is an introduction to Artificial Intelligence and Machine Learning that is designed 
